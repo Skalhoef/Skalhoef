@@ -4,7 +4,7 @@ This GitHub page contains a collection of research-related repositories and pers
 
 ---
 
-### 📚 Active Projects
+### 📚 Active (= uploaded) Repositories
 
 #### 🌐 Homepage
 - **Sebastians_Homepage**  
@@ -25,7 +25,7 @@ This GitHub page contains a collection of research-related repositories and pers
 
 ---
 
-### 🚧 Upcoming / In Progress Repositories
+### 🚧 Upcoming (= existing, but not yet uploaded) Repositories
 
 - **Sebastians_ESR** *(to be uploaded)*  
   Related to:
