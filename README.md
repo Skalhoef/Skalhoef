@@ -23,17 +23,13 @@ This GitHub page contains a collection of research-related repositories and pers
   Related to:
   - *Specific Heats Project*
 
----
-
-### 🚧 Upcoming (= existing, but not yet uploaded) Repositories
-
-- **Sebastians_ESR** *(to be uploaded)*  
-  Related to:
-  - *ESR Project*
-
 - **Sebastians_Green_Functions**  
   Related to:
   - *Green-Function Project*
+
+---
+
+### 🚧 Upcoming (= existing, but not yet uploaded) Repositories
 
 - **Sebastians_Automation_Pipeline**  
   Related to:
