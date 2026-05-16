@@ -8,7 +8,7 @@ This GitHub page contains a collection of research-related repositories and pers
 
 #### 🌐 Homepage
 - **Sebastians_Homepage**  
-  Personal academic homepage.  
+  Personal homepage.  
   → https://skalhoef.github.io/Sebastians_Homepage/index.html
 
 ---
