@@ -10,22 +10,31 @@ This GitHub page contains a collection of research-related repositories and pers
 - **Sebastians_Homepage**  
   Personal homepage → https://skalhoef.github.io/Sebastians_Homepage/index.html
 
+
 ---
 
 #### 🧪 Research-Related Repositories
+
+- **Sebastians_GRIT**  
+  Related to:
+  - *Specific Heats Project*
+
+
+- **Sebastians_Green_Functions**  
+  Related to:
+  - *Green-Function Project*
+
 
 - **Sebastians_Personalized_elk-9.5.14**  
   Related to:
   - *Fermi-Surfaces Project*
   - *Weyl-Points Project*
 
+
 - **Sebastians_Personalized_QE_n_EPW_Codes**  
   Related to:
   - *Specific Heats Project*
 
-- **Sebastians_Green_Functions**  
-  Related to:
-  - *Green-Function Project*
 
 ---
 
@@ -35,9 +44,6 @@ This GitHub page contains a collection of research-related repositories and pers
   Related to:
   - *Specific Heats Project*
 
-- **Sebastians_GRIT**  
-  Related to:
-  - *Specific Heats Project*
 
 <!--
 **Skalhoef/Skalhoef** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
