@@ -43,13 +43,6 @@ This GitHub page contains a collection of research-related repositories and pers
   Related to:
   - *Specific Heats Project*
 
----
-
-### ℹ️ Notes
-More repositories will be added as projects evolve.
-
----
-
 <!--
 **Skalhoef/Skalhoef** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
