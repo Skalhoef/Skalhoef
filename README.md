@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hej, I am Sebastian Kalhöfer 👋
+
+This Github-page contains the following repositories ...
+
+... Sebastians_Homepage                    ---> See https://skalhoef.github.io/Sebastians_Homepage/index.html for more information.
+... Sebastians_Personalized_elk-9.5.14     ---> Related to two research articles ("Fermi-Surfaces Project" and "Weyl-Points Project").
+... Sebastians_Personalized_QE_n_EPW_Codes ---> Related to a   research article  ("Specific Heats Project")
+
+and further repositories will be added ...
+
+... Sebastians_ESR (to be uploaded)        ---> Related to a   research article  ("ESR            Project")
+... Sebastians_Green_Functions             ---> Related to a   research article  ("Green-Function Project")
+... Sebastians_Automation_Pipeline         ---> Related to a   research article  ("Specific Heats Project")
+... Sebastians_GRIT                        ---> Related to a   research article  ("Specific Heats Project")
 
 <!--
 **Skalhoef/Skalhoef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
