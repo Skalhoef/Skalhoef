@@ -26,13 +26,13 @@ This GitHub page contains a collection of research-related repositories and pers
 
 
 - **Sebastians_Personalized_elk-9.5.14**  
-  Related to:
+  Modified Large Legacy Code, related to:
   - *Fermi-Surfaces Project*
   - *Weyl-Points Project*
 
 
 - **Sebastians_Personalized_QE_n_EPW_Codes**  
-  Related to:
+  Modified Large Legacy Code, related to:
   - *Specific Heats Project*
 
 
