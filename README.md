@@ -1,29 +1,64 @@
-## Hej, I am Sebastian Kalhöfer 👋
+## Hi, I am Sebastian Kalhöfer 👋
 
-This Github-page contains the following repositories ...
+This GitHub page contains a collection of research-related repositories and personal projects in computational materials theory.
 
-... Sebastians_Homepage                    ---> See https://skalhoef.github.io/Sebastians_Homepage/index.html for more information.
-... Sebastians_Personalized_elk-9.5.14     ---> Related to two research articles ("Fermi-Surfaces Project" and "Weyl-Points Project").
-... Sebastians_Personalized_QE_n_EPW_Codes ---> Related to a   research article  ("Specific Heats Project")
+---
 
-and further repositories will be added ...
+### 📚 Active Projects
 
-... Sebastians_ESR (to be uploaded)        ---> Related to a   research article  ("ESR            Project")
-... Sebastians_Green_Functions             ---> Related to a   research article  ("Green-Function Project")
-... Sebastians_Automation_Pipeline         ---> Related to a   research article  ("Specific Heats Project")
-... Sebastians_GRIT                        ---> Related to a   research article  ("Specific Heats Project")
+#### 🌐 Homepage
+- **Sebastians_Homepage**  
+  Personal academic homepage.  
+  → https://skalhoef.github.io/Sebastians_Homepage/index.html
+
+---
+
+#### 🧪 Research-Related Repositories
+
+- **Sebastians_Personalized_elk-9.5.14**  
+  Related to:
+  - *Fermi-Surfaces Project*
+  - *Weyl-Points Project*
+
+- **Sebastians_Personalized_QE_n_EPW_Codes**  
+  Related to:
+  - *Specific Heats Project*
+
+---
+
+### 🚧 Upcoming / In Progress Repositories
+
+- **Sebastians_ESR** *(to be uploaded)*  
+  Related to:
+  - *ESR Project*
+
+- **Sebastians_Green_Functions**  
+  Related to:
+  - *Green-Function Project*
+
+- **Sebastians_Automation_Pipeline**  
+  Related to:
+  - *Specific Heats Project*
+
+- **Sebastians_GRIT**  
+  Related to:
+  - *Specific Heats Project*
+
+---
+
+### ℹ️ Notes
+More repositories will be added as projects evolve.
+
+---
 
 <!--
-**Skalhoef/Skalhoef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skalhoef/Skalhoef** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Ideas for further customization:
+- 🔭 Current work
+- 🌱 Learning focus
+- 👯 Collaboration interests
+- 💬 Topics to ask me about
+- 📫 Contact info
+- ⚡ Fun fact
 -->
