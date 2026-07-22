@@ -15,23 +15,23 @@ This GitHub page contains a collection of research-related repositories and pers
 
 #### 🧪 Research-Related Repositories
 
-- **Sebastians_GRIT**  
+- **GRIT**  
   Related to:
   - *Specific Heats Project*
 
 
-- **Sebastians_Green_Functions**  
+- **green-functions-review-example**  
   Related to:
-  - *Green-Function Project*
+  - *Green-Function Review Article*
 
 
-- **Sebastians_Personalized_elk-9.5.14**  
+- **elk-9.5.14-customized**  
   Modified Large Legacy Code, related to:
   - *Fermi-Surfaces Project*
   - *Weyl-Points Project*
 
 
-- **Sebastians_Personalized_QE_n_EPW_Codes**  
+- **qe-7.2-customized**  
   Modified Large Legacy Code, related to:
   - *Specific Heats Project*
 
